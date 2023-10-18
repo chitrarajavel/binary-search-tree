@@ -196,6 +196,8 @@ class BinarySearchTree {
     /** bfs(): Traverse the array using BFS.
      * Return an array of visited nodes. */
 
+    //Reference SB solutions
+
     bfs() {
         let curNode = this.root;
         let valArr = [];
